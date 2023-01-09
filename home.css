@@ -1,0 +1,17 @@
+body{
+    margin: auto;
+}
+
+h1{
+    background-color: #131921;
+    height: 70px;
+}
+
+.foo
+{
+    height: 50%;
+    display: inline-block;
+    background: #e8edff url('foo.png') top center no-repeat;
+    vertical-align: bottom;
+}
+
