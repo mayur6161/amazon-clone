@@ -15,3 +15,13 @@ h1{
     vertical-align: bottom;
 }
 
+.fresh-shoveler .as-title-block-left {
+    display: block;
+    width: auto;
+    float: left;
+    font-size: 21px;
+    line-height: 1.5!important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-bottom: 0;
+}
